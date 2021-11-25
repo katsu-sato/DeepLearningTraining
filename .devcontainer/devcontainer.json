@@ -39,7 +39,8 @@
 		"ms-python.vscode-pylance",
 		"coenraads.bracket-pair-colorizer-2",
 		"shardulm94.trailing-spaces",
-		"vscodevim.vim"
+		"vscodevim.vim",
+		"ms-ceintl.vscode-language-pack-ja"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
